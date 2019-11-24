@@ -1,0 +1,58 @@
+heading/tanda judul:
+<h1></h1> sampai <h6></h6>
+
+paragraf :
+<p></p>
+
+garis baru :
+<br></br>
+
+align/tata tulisan :
+<p align="left></p> berarti ke kiri
+<p align="center"></p>  berarti ke tengah
+<p align="righ"></p>  berati ke kanan
+
+performan text :
+<b></b> bold/tebal
+<i></i> italic/miring
+<u></u> undrtline/miring
+<small></small> small/kecil
+<sup></sup> SUPerscript/agak ke atas
+<sub></sub> SUBscript/agak ke bawah
+<pre></pre> tampil sesuai dokumen
+
+menambah link : 
+<a href="link nya apa"> kata kata beserta linknya </a>
+
+membuat link ke tab baru : targer=:"_blank"
+kata kata <a href="link nya apa" tager="_blank"> linknya apa </a>
+
+menambah email : mailto
+<a href="mailto:emailnya apa"> kata kata di email </a>
+
+menambah gambar menuju ke alamat yg di tuju :
+<a href="linknya">
+<img src=gambarnya.png"widh="100px"/>
+</a>
+
+nb: "widh="ukuran gambar mx"/>
+
+
+membuat list :
+
+<ol> atau <ol type="1">
+<li> isi list pertama </li>
+<li> isi list sampai seterusnya </li>
+</ol>
+
+<ol type="i"></ol> titik di atas
+<ol type="A"></ol> abjad besar
+<ol type="a"></ol> abjad kecil
+
+<ul></ul> tidak bernomer/abjad
+<ul type="square"></ul> titik kotak
+<ul type="disc"></ul> titik hitam
+<ul type="circle"></ul> titik putih
+
+
+

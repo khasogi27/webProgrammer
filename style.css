@@ -1,0 +1,52 @@
+body{
+	font-family: sans-serif;
+	background: #d5f0f3;
+}
+
+.tulisan_login{
+    text-align: center;
+    font-size: 40px;
+    font-family:times new roman;
+    margin:24px
+}
+ 
+.kotak_login{
+	width: 350px;
+	background: white;
+	margin: 20px auto;
+	padding: 30px 20px;
+}
+.kotak_buat_akun{
+	width: 350px;
+	background: white;
+	margin: 20px auto;
+    padding: 30px 20px;
+}
+
+.form_login{
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+
+.tombol_login{
+	background: cornflowerblue;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+
+.link{
+	color: #232323;
+	text-decoration: none;
+    font-size: 10pt;
+}
+p{
+    text-align:center;
+    font-size:15px;
+}
