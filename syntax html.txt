@@ -16,6 +16,7 @@ performan text :
 <b></b> bold/tebal
 <i></i> italic/miring
 <u></u> undrtline/miring
+<b></b> big/besar
 <small></small> small/kecil
 <sup></sup> SUPerscript/agak ke atas
 <sub></sub> SUBscript/agak ke bawah
